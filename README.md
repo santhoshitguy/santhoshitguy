@@ -3,7 +3,6 @@
 ## I'm a Developer, Designer, Gamer and Traveling Bee
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshitguy&label=Views&color=blue&style=plastic" alt="santhoshitguy" /> </p>
-
 <a href="https://twitter.com/dreamsqube">
   <img align="left" alt="Santhosh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -32,11 +31,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Angular and anything about Frontend Technology
 - 📫 How to reach me: [Twitter - @DreamsQube](https://twitter.com/dreamsqube) , [LinkedIn - @mtechviral](https://www.linkedin.com/in/android-guru-305264117)
 - 😄 Pronouns: Me/Mine/Myself
-- ⚡ Fun fact: I spend almost 4 hours Playing Video Games.
-
+- ⚡ Fun fact: I spend almost 12hrs a day on listening music.
 
 [![Twitter: santhoshitguy](https://img.shields.io/twitter/follow/dreamsqube?style=social)](https://twitter.com/dreamsqube)
-[![Linkedin: santhoshitguy](https://img.shields.io/badge/-android-guru-305264117-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/android-guru-305264117/)](https://www.linkedin.com/in/android-guru-305264117)
 [![GitHub santhoshitguy](https://img.shields.io/github/followers/santhoshitguy?label=follow&style=social)](https://github.com/santhoshitguy)
 [![website](https://img.shields.io/badge/PortfolioWebsite-androidhotspot.com-2648ff?style=flat-square&logo=google-chrome)](http://androidhotspot.com/aboutme)
 
@@ -53,9 +50,14 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
----
-<img align="left" alt="Santhosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=santhoshitguy&show_icons=true&hide_border=true" />
-
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+---
+<img align="left" alt="Santhosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=santhoshitguy&show_icons=true&hide_border=true" />
+
+## Top Languages Used
+
+<img align="left" alt="Santhosh's Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshitguy&langs_count=8" />
