@@ -25,13 +25,12 @@
 
 <br />
 Here are some ideas to get you started:
-<br />
+
 - 🔭 I’m currently working on [LTI](https://www.lntinfotech.com/).
 - 🌱 I’m currently learning more about MEAN stack and DevOps
 - 👯 I’m looking to collaborate on [Quora](https://www.quora.com/profile/SanthoshKumar-Sakthivel).
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Angular and anything about Frontend Technology
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/dreamsqube) , [LinkedIn - @mtechviral](https://www.linkedin.com/in/android-guru-305264117)
+- 📫 How to reach me: [Twitter - @DreamsQube](https://twitter.com/dreamsqube) , [LinkedIn - @mtechviral](https://www.linkedin.com/in/android-guru-305264117)
 - 😄 Pronouns: Me/Mine/Myself
 - ⚡ Fun fact: I spend almost 4 hours Playing Video Games.
 
@@ -45,15 +44,20 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/deno/deno.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xml/xml.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
+<br />
+<br />
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
