@@ -53,14 +53,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-<br />
-<br />
-# Blog posts
+---
+<img align="left" alt="Santhosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=santhoshitguy&show_icons=true&hide_border=true" />
+
+# Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
