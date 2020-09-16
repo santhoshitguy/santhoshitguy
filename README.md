@@ -25,11 +25,11 @@
 <br />
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [LTI](https://www.lntinfotech.com/).
+- 🔭 I’m currently working on [L&T INFOTECH](https://www.lntinfotech.com/).
 - 🌱 I’m currently learning more about MEAN stack and DevOps
 - 👯 I’m looking to collaborate on [Quora](https://www.quora.com/profile/SanthoshKumar-Sakthivel).
 - 💬 Ask me about Angular and anything about Frontend Technology
-- 📫 How to reach me: [Twitter - @DreamsQube](https://twitter.com/dreamsqube) , [LinkedIn - @mtechviral](https://www.linkedin.com/in/android-guru-305264117)
+- 📫 How to reach me: [Twitter - @DreamsQube](https://twitter.com/dreamsqube) , [LinkedIn - @DreamsQube](https://www.linkedin.com/in/android-guru-305264117)
 - 😄 Pronouns: Me/Mine/Myself
 - ⚡ Fun fact: I spend almost 12hrs a day on listening music.
 
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
